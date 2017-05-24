@@ -60,7 +60,7 @@ function watchPosition(){
 		$('#altitud').html(position.coords.altitude);
 		$('#accuracy').html(position.coords.accuracy);
 		$('#aaccuracy').html(position.coords.altitudeAccuracy);
-		$('#headingg').html(position.coords.heading);
+		$('#heading').html(position.coords.heading);
 		$('#speed').html(position.coords.speed);
 		$('#timestamp').html(position.timestamp);
 	};
