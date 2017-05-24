@@ -11,7 +11,7 @@ $('#posicion').on('click',function(){
 	getPosition();
 });
 
-$('#watch').on('click',function(){
+$('#Watch').on('click',function(){
 	watchPosition();
 });
 
